@@ -2,7 +2,8 @@
 How To Set VMware Firework to speed up VMs
 
 You Must Have a CPU that is Cores 2 
-let go
+
+so let go
 
 
 1. VM Create
@@ -21,5 +22,27 @@ let go
 
 8. Must Be having TPM
 
-Done Now you can have firework installed on your vmware
+Done Now you can have firework installed on your vm
+
+Parallels Mode For VMware
+
+LOW END PCs
+
+RAM : 2 GB
+
+CPU : 2 Cores
+
+GPU : Whatever That Works With VMware
+
+HardDisk : Must Be SSD With 64GB Of Space
+
+HIGH END
+
+RAM : 4GB 8GB 16GB 32GB
+
+CPU : Cores 4 8 16
+
+GPU : Whatever That Works With VMware
+
+HardDisk : Must Be SSD With 256 128 64 GB Of Space
 
