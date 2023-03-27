@@ -36,6 +36,8 @@ GPU : Whatever That Works With VMware
 
 HardDisk : Must Be SSD With 64GB Of Space
 
+
+
 HIGH END
 
 RAM : 4GB 8GB 16GB 32GB
@@ -46,3 +48,5 @@ GPU : Whatever That Works With VMware
 
 HardDisk : Must Be SSD With 256 128 64 GB Of Space
 
+system sets
+![image](https://user-images.githubusercontent.com/124361641/227919322-523f298a-56ab-499d-83e3-47f1e8d95f8c.png)
