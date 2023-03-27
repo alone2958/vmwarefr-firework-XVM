@@ -50,3 +50,8 @@ HardDisk : Must Be SSD With 256 128 64 GB Of Space
 
 system sets
 ![image](https://user-images.githubusercontent.com/124361641/227919322-523f298a-56ab-499d-83e3-47f1e8d95f8c.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/124361641/227919500-e6a5ff2c-c330-4111-97e6-7b6d6a6ef11a.png)
+![Screenshot (31)](https:![Screenshot (30)](https://user-images.githubusercontent.com/124361641/227919551-1bc0a1ac-d54f-423e-a128-a099276d4456.png)
+//user-images.githubusercontent.com/124361641/227919529-fa4503b4-c6f6-4c8a-8847-cf79a361c34c.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/124361641/227919613-cd2d0d60-4fa2-455c-90f6-e42a121828aa.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/124361641/227919628-0fd8e526-c803-4dbb-865c-bc81b244a9a5.png)
